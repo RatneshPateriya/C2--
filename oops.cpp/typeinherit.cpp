@@ -112,7 +112,7 @@
 //     }
 // };
 // class youtuber{
-//     protected:
+//     protected:-
 //     int suscriber;
 //     public:
 //     void contrntcrater(){
